@@ -1,5 +1,5 @@
-import { greet, add, multiply, sumAll } from "utils.js";
-import { user, numbers } from "data.js";
+import { greet, add, multiply, sumAll } from "/utils.js";
+import { user, numbers } from "/data.js";
 
 const { name, age, city, hobbies } = user;
 
